@@ -1,0 +1,5 @@
+{
+  "name": "Employee Burnout Detection",
+  "description": "A Python PySide6 application that analyzes keyboard behavior to detect potential employee burnout and stress levels.",
+  "requestFramePermissions": []
+}
